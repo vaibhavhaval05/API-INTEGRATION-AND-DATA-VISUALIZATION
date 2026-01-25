@@ -7,7 +7,7 @@ Organization: Codtech IT Solutions Private Limited
 
 Duration: 4 Weeks
 
-Internship Period: 07 January 2026 - 18 February 2026
+Internship Period: 07 January 2026 - 4 February 2026
 
 Intern ID: CTIS1452
 
