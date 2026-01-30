@@ -12,7 +12,6 @@ Internship Period: 07 January 2026 - 4 February 2026
 Intern ID: CTIS1467
 
 # 🌦 Weather Forecast Dashboard (Python)
-
 This project fetches real-time weather forecast data using the **OpenWeatherMap API** and visualizes **temperature and humidity** using **Matplotlib** in a clean, side-by-side dashboard.
 
 ## Features
