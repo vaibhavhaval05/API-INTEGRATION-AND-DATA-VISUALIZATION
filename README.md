@@ -28,7 +28,6 @@ This project fetches real-time weather forecast data using the **OpenWeatherMap 
 - Matplotlib (Data Visualization)
 - OpenWeatherMap API
 
-
 ## Project Structure
 weather-dashboard/
 │
