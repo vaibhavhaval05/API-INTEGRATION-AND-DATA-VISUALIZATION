@@ -35,7 +35,6 @@ weather-dashboard/
 ├── OpenWeather.py
 ├── README.md
 
-
 ## How It Works
 1. Fetches weather forecast data from OpenWeatherMap API
 2. Extracts temperature, humidity, and date information
