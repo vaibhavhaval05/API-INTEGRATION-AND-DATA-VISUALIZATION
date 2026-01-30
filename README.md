@@ -22,7 +22,6 @@ This project fetches real-time weather forecast data using the **OpenWeatherMap 
 - Error handling for API requests
 - Clean and readable x-axis (date only)
 
-
 ## Technologies Used
 - Python
 - Requests (API integration)
